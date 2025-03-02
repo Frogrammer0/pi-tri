@@ -22,6 +22,7 @@ public class PiTri {
                         }
                         c++;
                     }
+                    //фолылвавопм
                     b++;
                 }
                 a++;
